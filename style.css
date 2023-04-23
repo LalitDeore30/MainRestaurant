@@ -21,7 +21,7 @@
 }
 
 #background{
-  color:#f8e5e5;
+  color:#f7dada;
   display: flex;
   flex-direction: column;
   font-family: 'Oswald', sans-serif;
@@ -42,7 +42,8 @@
   height: max-content;
 }
 p{
-  font-size: 2rem;
+  font-size: 1.5rem;
+  color: #FFFFFF;
 }
 .item {
   width: fit-content;
